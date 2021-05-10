@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arghadeep-hub/codeScanner.git/static/css/main.a158be39.chunk.css",
+    "main.js": "/Arghadeep-hub/codeScanner.git/static/js/main.ff47f0ba.chunk.js",
+    "main.js.map": "/Arghadeep-hub/codeScanner.git/static/js/main.ff47f0ba.chunk.js.map",
+    "runtime-main.js": "/Arghadeep-hub/codeScanner.git/static/js/runtime-main.cee19a5f.js",
+    "runtime-main.js.map": "/Arghadeep-hub/codeScanner.git/static/js/runtime-main.cee19a5f.js.map",
+    "static/js/2.18c4dcfe.chunk.js": "/Arghadeep-hub/codeScanner.git/static/js/2.18c4dcfe.chunk.js",
+    "static/js/2.18c4dcfe.chunk.js.map": "/Arghadeep-hub/codeScanner.git/static/js/2.18c4dcfe.chunk.js.map",
+    "index.html": "/Arghadeep-hub/codeScanner.git/index.html",
+    "static/css/main.a158be39.chunk.css.map": "/Arghadeep-hub/codeScanner.git/static/css/main.a158be39.chunk.css.map",
+    "static/js/2.18c4dcfe.chunk.js.LICENSE.txt": "/Arghadeep-hub/codeScanner.git/static/js/2.18c4dcfe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Arghadeep-hub/codeScanner.git/static/media/about-bg.38fdb5e5.png",
+    "static/media/about-img.d8dcd603.png": "/Arghadeep-hub/codeScanner.git/static/media/about-img.d8dcd603.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee19a5f.js",
+    "static/js/2.18c4dcfe.chunk.js",
+    "static/css/main.a158be39.chunk.css",
+    "static/js/main.ff47f0ba.chunk.js"
+  ]
+}
