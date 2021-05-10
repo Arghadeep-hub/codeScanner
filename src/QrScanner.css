@@ -1,0 +1,18 @@
+.qr-scanner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr-bar{
+    border: 2px solid #03d9ff;
+    border-radius: 100%;
+    position: absolute;
+    width: 32%;
+    z-index: 1;
+    animation: float1 2s linear infinite;
+}
+@media (max-width:450px){
+    .qr-bar{
+        width: 62%;
+    }
+}
